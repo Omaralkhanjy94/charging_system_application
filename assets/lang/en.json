@@ -1,0 +1,20 @@
+{
+    "email": "Email",
+    "password": "Password",
+    "forget_password":"forget password?",
+    "stay_logined":"Stay logined",
+    "login":"Login",
+    "regist":"regist",
+    "تسجيل":"regist",
+    "create_an_account":"create an account",
+    "Cooperation is fast and easy": "Cooperation is fast and easy",
+    "full_name": "Full Name",
+    "re_password" : "password again",
+    "ادخل البيانات المطلوبة في الاسفل":"Enter all required data down ",
+    "مع تعاون تحتفظ شركات النقل بالمزيد من المال":"With TAAUN, transport companies keep more $$$.",
+    "create_a_new_account":"Create a new account",
+    "password_not_matched":"The password and re-password not matched",
+    "create_new_password": "Create New Password",
+    "save":"Save"
+
+}
